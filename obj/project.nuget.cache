@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqDj66KuYFVFLn9P6N60se+mhBSD9sr2pz3xEBjKHhQnDrGqvWIpzlmM5zU0K+dtg7xzv3YS/SaDaFRjrK8LLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soumyajit das\\source\\repos\\JenkinsDemoProject\\JenkinsDemoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soumyajit das\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
