@@ -36,3 +36,4 @@ C:\Users\soumyajit das\source\repos\JenkinsDemoProject\obj\Debug\net5.0\ref\Jenk
 C:\Users\soumyajit das\source\repos\JenkinsDemoProject\obj\Debug\net5.0\JenkinsDemoProject.pdb
 C:\Users\soumyajit das\source\repos\JenkinsDemoProject\obj\Debug\net5.0\JenkinsDemoProject.genruntimeconfig.cache
 C:\Users\soumyajit das\source\repos\JenkinsDemoProject\obj\Debug\net5.0\JenkinsDemoProject.csproj.CopyComplete
+C:\Users\soumyajit das\source\repos\JenkinsDemoProject\obj\Debug\net5.0\JenkinsDemoProject.csproj.AssemblyReference.cache
